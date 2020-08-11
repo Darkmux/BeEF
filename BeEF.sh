@@ -6,7 +6,8 @@
 #
 # VARIABLES
 #
-source $HOME/BeEF/Colors.sh
+PWD=$(pwd)
+source ${PWD}/Colors.sh
 #
 # FUNCIONES
 #
